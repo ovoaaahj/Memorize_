@@ -31,3 +31,7 @@ public class SwaggerConfig {
 ```
 
 JWT 기능은 추후에 더 알아보고 내용 추가하기
+
+접근주소는 아래와 같다 <br>
+http://localhost:8080/swagger-ui/index.html
+
