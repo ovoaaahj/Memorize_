@@ -8,8 +8,8 @@ mkdir ~/.ssh
 <h2>step 2</h2>  다운받은 공개키 및 비밀키 .ssh 폴더로 복사하기<br><br>
 
 ```bash
-cp /Downloads/공개키정보 ~/.ssh
-cp /Downloads/비밀키정보 ~/.ssh
+cp /Downloads/공개키정보 ~/.ssh
+cp /Downloads/비밀키정보 ~/.ssh
 ```
 
 <h2>step 3</h2>  비밀키 권한 변경하기 <br><br>
