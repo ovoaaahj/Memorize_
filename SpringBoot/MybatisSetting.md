@@ -35,3 +35,13 @@ mybatis.mapper-locations= classpath:/mapper/**/*.xml (mapper 위치)
 
 </mapper>
 ```
+
+<h3>4. mapper 인터페이스 생성</h3>
+아래와 같이 mapper interface 생성 후 필요한 기능 추가하기 
+
+```
+@Mapper
+public interface LoginMapper {
+      LoginDto findUserInfo(LoginDto loginDto);
+}
+```
