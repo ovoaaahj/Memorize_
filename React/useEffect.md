@@ -98,3 +98,8 @@ export default function Box() {
 ```
  IntersectionObserver를 관리하는 Effect,<br>
  Box 컴포넌트 전체가 뷰포트 내에서 완전히 보일 때 배경 색상이 검은색으로 변경되는 것을 확인해 볼 수 있다.
+
+
+
+<br><br><br><br>
+참고 :: https://ko.react.dev/reference/react/useEffect#useeffect 
