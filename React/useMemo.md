@@ -52,3 +52,11 @@ function TodoList({ todos, tab, theme }) {
 데이터가 변경되지 않은 경우 해당 작업을 건너뛰고 싶을 수도 있습니다!
 
 이럴때, useMemo를 사용하여 이미 계산한 값을 사용할 수 있습니다. (값이 변경될때만 작동함)
+
+
+
+
+
+<br><br><br><br><br><br><br>
+
+참고 :: https://velog.io/@jinyoung985/React-useMemo%EB%9E%80           https://react.dev/reference/react/useMemo
