@@ -65,15 +65,8 @@ Cesium.Camera.DEFAULT_VIEW_RECTANGLE = Cesium.Rectangle.fromDegrees(124.3188, 33
 
 Cesium.Ion.defaultAccessToken = '본인 ion 개인키 넣기';
 
-// Initialize the Cesium Viewer in the HTML element with the `cesiumContainer` ID.
-
-
 
 export const CesiumView = () => {
-
-  // const terrainProvider = new Cesium.CesiumTerrainProvider({
-  //   url: Cesium.IonResource.fromAssetId(1)
-  // });
 
 
   return (
